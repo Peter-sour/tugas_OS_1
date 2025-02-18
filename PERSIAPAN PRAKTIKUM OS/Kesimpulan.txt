@@ -1,0 +1,5 @@
+KESIMPULAN
+1. Instalasi Debian/Ubuntu memerlukan spesifikasi minimal dan bisa dilakukan lewat virtualisasi
+2. Debian 12 lebih baru dan mendukung perangkat keras lebih baik daripada Debian 11
+3. Systemd menggantikan SysVinit untuk manajemen layanan Debian 11 dan Ubuntu seteah 15.04
+4. CPU-Z dan perintah shell digunakan untuk cek hardware dan aplikasi 
